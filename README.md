@@ -14,3 +14,5 @@ ollama run minicpm-v
 API Key：sk-ollama
 自定义Prompt(推荐)：The extracted text does not need to analyze its title and body, ignore the corresponding icon, do not guess the meaning of the text, and only output the corresponding recognized content
 ```
+### 支持
+如有问题或建议，欢迎在GitHub提交issue反馈
