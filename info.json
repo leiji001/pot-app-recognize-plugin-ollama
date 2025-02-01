@@ -1,5 +1,5 @@
 {
-  "id": "plugin.com.pot-app.ollama_recognize",
+  "id": "plugin.com.strivy-zsy.ollama_recognize",
   "plugin_type": "recognize",
   "icon": "ollama.png",
   "display": "Ollama",
