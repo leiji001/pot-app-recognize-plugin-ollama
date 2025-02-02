@@ -8,20 +8,6 @@
     {
       "key": "model",
       "display": "模型",
-      "type": "select",
-      "options": {
-        "llava-llama3": "LLaVA-llama3",
-        "minicpm-v": "MiniCPM-V"
-      }
-    },
-    {
-      "key": "requestPath",
-      "display": "请求路径",
-      "type": "input"
-    },
-    {
-      "key": "apiKey",
-      "display": "API Key",
       "type": "input"
     },
     {
