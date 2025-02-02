@@ -3,7 +3,7 @@
 支持本地Ollama Vision模型
 
 ### 模型安装
-推荐minicpm-v模型
+推荐minicpm-v和llava-llama3模型
 ```
 ollama run llava-llama3
 ollama run minicpm-v
