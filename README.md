@@ -18,7 +18,7 @@ ollama run minicpm-v
 ![image](https://github.com/user-attachments/assets/22733699-6523-4394-9ecd-e99f2c1f6991)
 
 ### 注意
-由于本地OCR模型识别能力有限，图片识别截图时，请不要过长或过宽，以免发生传输问题
+由于本地OCR模型识别能力有限，图片识别截图时，请不要**过长或过宽**，以免发生传输问题，后续可能会修复，请谅解🥺
 
 ### 支持
 如有问题或建议，欢迎在GitHub提交issue反馈
